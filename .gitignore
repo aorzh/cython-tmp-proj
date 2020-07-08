@@ -215,3 +215,4 @@ cython_debug/
 .idea
 
 .DS_Store
+!/build/lib.macosx-10.9-x86_64-3.7/
